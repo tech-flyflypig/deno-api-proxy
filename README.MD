@@ -7,7 +7,7 @@
 B站，YouTube，抖音，公众号 全网同名。转载请注明作者。
 
 ## 项目简介
-使用Deno将Open AI, Claude, Groq等 API代理到国内，打破地域限制。
+使用Deno将Open AI, Claude, Groq等API代理到国内，打破地域限制。
 
 ## Deno部署（推荐）
 
